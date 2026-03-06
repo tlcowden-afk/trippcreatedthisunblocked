@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "The classic number-merging puzzle game.",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?w=400&h=300&fit=crop",
+    "url": "https://play2048.co/"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced hexagonal puzzle game.",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=300&fit=crop",
+    "url": "https://hextris.io/"
+  },
+  {
+    "id": "doodle-jump",
+    "title": "Doodle Jump",
+    "description": "Jump as high as you can in this classic arcade game.",
+    "thumbnail": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=400&h=300&fit=crop",
+    "url": "https://poki.com/en/g/doodle-jump"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Test your reflexes in this high-speed 3D runner.",
+    "thumbnail": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=400&h=300&fit=crop",
+    "url": "https://slopegame.io/"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The world's most popular block-stacking puzzle.",
+    "thumbnail": "https://images.unsplash.com/photo-1605898399783-1820b7353227?w=400&h=300&fit=crop",
+    "url": "https://tetris.com/play-tetris"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "Flap your wings and avoid the pipes.",
+    "thumbnail": "https://images.unsplash.com/photo-1553481187-be93c21490a9?w=400&h=300&fit=crop",
+    "url": "https://flappybird.io/"
+  }
+]
